@@ -1,2 +1,0 @@
-# Test Write Permission
-OK
