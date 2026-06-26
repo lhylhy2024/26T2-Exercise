@@ -1,0 +1,23 @@
+# Python缓存
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 数据文件（太大，不上传）
+data/
+*.csv
+*.xlsx
+
+# 模型输出
+model_output/
+
+# 本地环境
+.env
+.conda
+
+# Word文档（不需要版本控制的）
+*.docx
+
+# 图片
+img/*.png
+img/*.jpg
